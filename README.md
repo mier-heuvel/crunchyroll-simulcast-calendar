@@ -1,0 +1,1 @@
+This script is intended to scrape the Crunchyroll simulcast calendar and add all shows that are in your queue for that week into your Google calendar.
